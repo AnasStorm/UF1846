@@ -1,0 +1,20 @@
+{
+  "name": "uf1846_prova_practica_2024-11-05_enunciat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<https://github.com/AnasStorm/UF1846.git>"
+  }
+}
